@@ -1,0 +1,12 @@
+{
+  "name": "pollingFeeds",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "feedparser": "^1.1.5",
+    "meteor-node-stubs": "~0.2.0",
+    "request": "^2.75.0"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "generator-angular-meteor": {
+    "filters": {
+      "coffee": true,
+      "jade": true,
+      "stylus": true,
+      "pagination": true,
+      "framework": "none",
+      "auth": true,
+      "appname": "pollingFeedsApp",
+      "projectname": "pollingFeeds",
+      "modules": "'angular-meteor'\n  'ui.router'\n  'angularUtils.directives.dirPagination'\n  'accounts.ui'",
+      "usedBower": false,
+      "bower": false
+    },
+    "appname": "pollingFeeds"
+  }
+}
